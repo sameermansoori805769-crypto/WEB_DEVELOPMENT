@@ -1,0 +1,48 @@
+# 🌐 Web Development Topics (Full Roadmap)
+
+## 🖥️ Front-End Development
+- HTML → Structure of webpages  
+- CSS → Styling, layouts, animations  
+- JavaScript (JS) → Logic, DOM manipulation, ES6+ features  
+- Responsive Design → Media queries, Flexbox, Grid  
+- Frameworks/Libraries → React, Angular, Vue  
+- Version Control → Git & GitHub basics  
+- UI/UX Basics → Accessibility, design principles  
+
+---
+
+## ⚙️ Back-End Development
+- Server Basics → HTTP, APIs, REST, GraphQL  
+- Languages → Node.js, Python (Flask/Django), Java (Spring Boot), PHP  
+- Databases → MySQL, PostgreSQL, MongoDB  
+- Authentication → JWT, OAuth, sessions  
+- Hosting & Deployment → Netlify, Vercel, AWS, Heroku  
+- Security → HTTPS, CORS, SQL Injection prevention  
+
+---
+
+## 🔗 Full-Stack Extras
+- MERN Stack → MongoDB, Express.js, React, Node.js  
+- MEAN Stack → MongoDB, Express.js, Angular, Node.js  
+- Testing → Jest, Mocha, Selenium  
+- DevOps Basics → CI/CD pipelines, Docker  
+- Cloud Services → Firebase, AWS, Azure  
+
+---
+
+## 🚀 Advanced Topics
+- Progressive Web Apps (PWA)  
+- WebSockets & Real-time Apps (Chat apps, live notifications)  
+- Microservices Architecture  
+- API Integration (Payment gateways, Google APIs, etc.)  
+- Performance Optimization (Caching, Lazy loading, CDN)  
+- SEO Basics (Search Engine Optimization for websites)  
+
+---
+
+## 🎨 Extra Cheezein (Add-ons)
+- UI Libraries → Bootstrap, Tailwind CSS, Material UI  
+- Package Managers → npm, yarn  
+- Build Tools → Webpack, Babel, Vite  
+- Content Management Systems (CMS) → WordPress, Strapi  
+- Freelancing/Portfolio → GitHub Pages, LinkedIn optimization, Resume-ready projects  
